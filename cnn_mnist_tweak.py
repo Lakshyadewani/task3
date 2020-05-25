@@ -1,28 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[160]:
-
-
 #firstly import all the pakages which is used in mnist CNN
 from keras.datasets import mnist 
-
-
-# In[161]:
-
-
 from keras.models import Sequential
-
-
-# In[162]:
-
-
 from keras.layers import Dense
-
-
-# In[163]:
-
-
 from keras.utils.np_utils import to_categorical
 
 
